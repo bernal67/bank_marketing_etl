@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Data
+data/bank_marketing.csv
+*.parquet
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
