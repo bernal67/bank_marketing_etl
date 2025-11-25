@@ -59,7 +59,7 @@ These outputs are fully cleaned and structured for PostgreSQL ingestion.
 
 ---
 
-# ⚙️ ETL Pipeline (etl.py)
+# ⚙️ ETL Pipeline (bank_marketing_etl.py)
 
 ```python
 import pandas as pd
